@@ -14,7 +14,7 @@ This is a classic **Snake Game** built using **Java** and the **Swing** library 
 
 ![image](https://github.com/user-attachments/assets/97283098-5fe4-4fb6-bf92-d0300a906bcb)
 
-![image](https://github.com/user-attachments/assets/52c30f02-af40-49f8-901f-5d7455fcc220)
+![image](https://github.com/user-attachments/assets/456d746a-0e56-48b5-a3c5-2eb71ddb3e0e)
 
 ## How to Run
 
