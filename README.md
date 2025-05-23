@@ -25,7 +25,7 @@ This is a classic **Snake Game** built using **Java** and the **Swing** library 
 ### Steps to Run
 1. **Clone the repository** (or copy the Java file):
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/venkatram-2005/Snake-Game-Java.git
     ```
 
 2. **Open the project in an IDE**:
